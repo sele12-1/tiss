@@ -41,7 +41,7 @@
     <div class="row botones">
         <div class="col"><button class="btn" id="cancelar">Cancelar</button></div>
         <div class="col"><button class="btn" id="guardar">Guardar</button></div>
-        
+
     </div>
 </form>
 
